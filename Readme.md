@@ -190,7 +190,7 @@ keywords:
 Love this project? Please contribute:
 
 1. **Fork** the repo
-2. **Clone**: `git clone https://github.com/edeveloper132-ilyas/atmsystem.git`
+2. **Clone**: `git clone https://github.com/eDeveloper132/ATM_SYSTEM.git`
 3. **Branch**: `git checkout -b feature/YourFeature`
 4. **Commit**: `git commit -m "Add YourFeature"`
 5. **Push**: `git push origin feature/YourFeature`
