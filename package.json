@@ -1,0 +1,32 @@
+{
+  "name": "@edeveloper132-ilyas/atmsystem",
+  "version": "1.0.14",
+  "description": "ATM system",
+  "main": "index.mjs",
+  "type": "module",
+  "keywords": ["atm","bank","cli","system","simulation","pin-management","balance","deposit","withdraw","cnic","nic","nodejs"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node index.mjs"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eDeveloper132/TypeScriptAssignments/ATM"
+  },
+  "author": "Mohammad Ilyas",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17",
+    "@types/inquirer": "^9.0.7",
+    "@types/chalk": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7"
+  }
+}
